@@ -4,7 +4,6 @@ switch branche to master !
 • Créer le projet ✅
 • Créer les modèles avec les migrations et contrôleurs qui correspond ✅
 • Utiliser le Template de AdminLTE ✅
-• Notre projet doit utiliser les notions suivantes :
 • Les relations ✅
 • Des classes de validation des données ✅
 • Gestion des erreurs. ✅
